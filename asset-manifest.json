@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eid_Greetings/static/css/main.e58b9cd4.css",
+    "main.js": "/Eid_Greetings/static/js/main.37c5f657.js",
+    "static/js/597.fdbfd46e.chunk.js": "/Eid_Greetings/static/js/597.fdbfd46e.chunk.js",
+    "index.html": "/Eid_Greetings/index.html",
+    "main.e58b9cd4.css.map": "/Eid_Greetings/static/css/main.e58b9cd4.css.map",
+    "main.37c5f657.js.map": "/Eid_Greetings/static/js/main.37c5f657.js.map",
+    "597.fdbfd46e.chunk.js.map": "/Eid_Greetings/static/js/597.fdbfd46e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e58b9cd4.css",
+    "static/js/main.37c5f657.js"
+  ]
+}

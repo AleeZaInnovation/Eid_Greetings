@@ -1,6 +1,6 @@
-# Merry Three.js Christmas
+# Eid Mubarak
 
-Christmas scene using threejs, react three fiber and gaussian splatting
+Eid Mubarak scene using threejs, react three fiber and gaussian splatting
 
 [![screenshot](https://threejs-christmas.vercel.app/preview.jpg)](https://threejs-christmas.vercel.app/)
 

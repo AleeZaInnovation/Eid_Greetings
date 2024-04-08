@@ -2,7 +2,7 @@
 
 Eid Mubarak scene using threejs, react three fiber and gaussian splatting
 
-[![screenshot](https://threejs-christmas.vercel.app/preview.jpg)](https://threejs-christmas.vercel.app/)
+[![screenshot](https://eid-greetings.vercel.app/preview.jpg)](https://eid-greetings.vercel.app/)
 
 ## Setup
 
